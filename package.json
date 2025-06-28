@@ -1,6 +1,9 @@
 {
   "name": "quantic-react-app",
   "version": "0.1.0",
+  //added per instructions
+  "homepage": ".",
+  //rest of file
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
